@@ -17,5 +17,4 @@ spec:
     name: facebooc
   targetNamespace: facebooc
   timeout: 3m0s
-  validation: client
 
